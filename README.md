@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AshokKota99
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning Numpy and pandas .
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Numpy and pandas.
 - 📫 How to reach me:ashokkota0605@gmail.com
 - I used to practice codes in Hacker Rank.
 
